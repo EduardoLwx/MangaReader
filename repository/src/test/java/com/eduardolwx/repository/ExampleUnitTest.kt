@@ -1,4 +1,4 @@
-package com.eduardolwx.mangareader
+package com.eduardolwx.repository
 
 import org.junit.Test
 
@@ -11,7 +11,7 @@ import org.junit.Assert.*
  */
 class ExampleUnitTest {
     @Test
-    fun app_test_example() {
+    fun repository_test_example() {
         assertEquals(4, 2 + 2)
     }
 }
